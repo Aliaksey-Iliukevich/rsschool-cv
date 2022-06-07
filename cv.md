@@ -24,7 +24,7 @@
  Telecommunications network,  
  Telecommunications Technician,  
  2019 
-***
+*** 
 ### **Courses**: ###
 #### **1)** *Full course of JavaScript + React* on Udemy ####
 #### **2)** RS Scholl ####
