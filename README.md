@@ -1,1 +1,1 @@
-[https://aliaksey-iliukevich.github.io/rsschool-cv/cv](https://aliaksey-iliukevich.github.io/rsschool-cv/cv)
+[CV#2. HTML, CSS & Git Basics](https://aliaksey-iliukevich.github.io/rsschool-cv/index.html)
